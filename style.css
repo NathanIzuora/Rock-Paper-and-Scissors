@@ -1,0 +1,23 @@
+body{
+    width: 50%;
+    margin: 0 auto;
+}
+
+
+.container{
+    width: 360px;
+    
+}
+
+#inputBox{
+    color: blueviolet;
+    width: 300px;
+    height: 30px;
+    vertical-align: middle;
+}
+
+#button{
+    color: rgb(53, 37, 25);
+
+}
+
